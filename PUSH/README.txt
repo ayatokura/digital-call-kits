@@ -1,6 +1,12 @@
 Files contained in this kit for use in your organization's participation in Call for Code
 =========================================================================================
 
+CallforCodeDayJudgeSheet.pdf: Project judging sheets with the Call for Code challenge judging critera and score ranges.
+
+CallforCodeDayKickoff.pptx: Presentation for the kickoff to the Call for Code day. Includes use cases and reference patterns. Example 2-day agenda provided that you can adapt tor you day plan.
+
+CallforCodeDayPitchWorkshop.pdf: Presentation for use during the Call for Code day to help teams understand best practices for presenting their project.
+
 CallforCodeDayPlan-Worksheet.xlsx: Detailed planning worksheet to use in running the Call for Code Day for your organization.
 
 CallforCodeDayPlan.pdf: A graphical field guide that introduces the methodology and provides example timetables and agendas for running the Call for Code Day for your organization.
