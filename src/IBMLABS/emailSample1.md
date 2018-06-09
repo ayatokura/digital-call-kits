@@ -1,7 +1,7 @@
-**SEND:** 2 weeks before planned Call for Code day or ASAP
-**REPLACE:** [insert date] with the planned dates for your Call for Code day
-**Insert** emailBanner.jpg file at the top of this note
-**From:** Lab Leader  
+**SEND:** 2 weeks before planned Call for Code day or ASAP  
+**REPLACE:** [insert date] with the planned dates for your Call for Code day  
+**Insert** emailBanner.jpg file at the top of this note  
+**From:** Lab Leader    
 **To:** Lab Developers  
 **Subject:** New initiative to build solutions improving global disaster preparedness.  
 
