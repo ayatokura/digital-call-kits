@@ -9,15 +9,15 @@ CallforCodeDayPlan.pdf: A graphical field guide that introduces the methodology 
 
 emailBanner.jpg: A banner to paste at the top of all nurture email messages.
 
-emailSample1.pdf: Sample email that can be used to introduce the Call for Code to developers in your organization and announce the upcoming Call for Code Day. Replace the link placeholder with your unique tracking link.
+emailSample1.pdf: Sample email that can be used to introduce the Call for Code to developers in your organization and announce the upcoming Call for Code Day.
 
 emailSample2.pdf: Sample email covering how to access training and other information to get up to speed and ready for your Call for Code Day.
 
 emailSample3.pdf: Sample email to encourage developers to keep working on their projects after the Call for Code Dan and get them ready for submission.
 
-emailSample4.pdf: Sample email to let developers that the submission deadline is fast approaching and to submit projects.
+emailSample4.pdf: Sample email to let IBMers know about project registration, the upcoming submission deadline and to encourage all to submit projects.
 
-emailSample5.pdf: Sample email to use for thanking all users that participated. IBM will provide information about any tickets that your organization may have earned and details of the winning project for you to insert into the template.
+emailSample5.pdf: Sample email to use for thanking all users that participated.
 
 overviewPresentation.pdf: Presentation on the Call for Code that you may use to communicate with your organization.
 
