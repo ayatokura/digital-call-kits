@@ -1,0 +1,25 @@
+#!/bin/bash
+#
+# build pdfs from source markdown, simply creates new pdfs for all markdown files in provided directory
+# usage (from top of repo):
+#   $ create_pdfs COMMIT|PUSH|WHATEVER
+#
+# pre-requisites:
+#    Docker Workstation  (for the pandoc container that does the conversion)
+
+# copy over code listing formatter
+cp scripts/listings-setup.tex src/${1}
+
+cd src/${1}
+
+for mdfile in `ls *.md`
+do
+  pdffile=${mdfile%.md}.pdf
+  if [ "$mdfile" -nt "$pdffile" ];
+  then
+    echo "converting ${mdfile} because it is newer than ${pdffile}"
+    docker run -v `pwd`:/source jagregory/pandoc $mdfile -o $pdffile --listings -H listings-setup.tex -f markdown_github+escaped_line_breaks --latex-engine=xelatex -V mainfont="Droid Sans" -V geometry:margin=1in
+  fi
+done
+
+rm listings-setup.tex
