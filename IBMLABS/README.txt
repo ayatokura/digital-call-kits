@@ -1,6 +1,8 @@
 Files contained in this kit for use in your organization's participation in Call for Code
 =========================================================================================
 
+StartHere.pdf: Your checklist for participating in Call for Code, as the name implies, start here to understand the rest of these files.
+
 CallforCodeDayKickoff.pptx: Presentation for the kickoff to the Call for Code day. Includes use cases and reference patterns. Example 2-day agenda provided that you can adapt tor you day plan.
 
 CallforCodeDayPlan-Worksheet.xlsx: Detailed planning worksheet to use in running the Call for Code Day for your organization.
