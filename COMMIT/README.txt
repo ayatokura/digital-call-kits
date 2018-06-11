@@ -1,6 +1,8 @@
 Files contained in this kit for use in your organization's participation in Call for Code
 =========================================================================================
 
+StartHere.pdf: Your checklist for participating in Call for Code, as the name implies, start here to understand the rest of these files.
+
 commitSocial.png: Banner for your team members to use in social media to announce their participation in the Call for Code.
 
 commitFAQ.pdf: A number of common questions and answers about an organization's contribution as as part of the commit to Call for Code.
