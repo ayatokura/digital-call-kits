@@ -1,7 +1,7 @@
 **SEND:** One week after Call for Code day  
-**Insert** emailBanner.jpg file at the top of this note 
+**Insert** emailBanner.jpg file at the top of this note
 **From:** Lab Leader  
-**To:** Developers on teams from Call for Code day (copy senior leaders who were judges too!)  
+**To:** Developers on teams from Call for Code day (copy senior leaders if they participated)
 **Subject:** Keep up the momentum with your Call for Code projects!  
 
 **Body:**
