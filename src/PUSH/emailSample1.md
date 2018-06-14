@@ -14,7 +14,7 @@ I wanted make you all aware of a developer-focused global challenge to help impr
 
 On average, **every day** natural disasters will directly impact 80,000 people, costing the global economy more than $270 million. What if technology could help improve these figures? That's exactly what Call for Code is setting out to do. It asks developers to work out how to use AI, Blockchain, Cloud, Data, and IoT technologies most effectively to improve communities' disaster preparedness and resiliency.
 
-This is a competitive challenge, but unlike any other hackathon, the winners will be working with The American Red Cross and IBM's Corporate Service Corps to deploy the solution on-site in 2019. I'd be proud to announce that we have a team of developers among our ranks who're changing the world for the better.
+This is a competitive challenge, but unlike any other hackathon, the winners will be working with The American Red Cross and IBM's Corporate Service Corps to deploy the solution in 2019. I'd be proud to announce that we have a team of developers among our ranks who're changing the world for the better.
 
 On top of the deployment, other rewards include:
 * An all-inclusive invitation for each team member to the *Call for Code Global Prize Event* in October.
