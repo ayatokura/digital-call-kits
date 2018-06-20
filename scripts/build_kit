@@ -20,8 +20,9 @@ cp -p src/${1}/*.xlsx src/build/${1}/FILES 2>/dev/null
 # copy up any jpgs source files if present
 cp -p src/${1}/*.jpg src/build/${1}/FILES 2>/dev/null
 
-# copy Start here to top level
+# move Start here to top level and remove from FILES
 cp -p src/${1}/StartHere.pdf src/build/${1}
+rm -f src/build/${1}/FILES/StartHere.pdf
 
 # create zip file and push it to the download zone
 cd src/build
