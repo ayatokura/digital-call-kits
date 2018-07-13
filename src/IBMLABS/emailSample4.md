@@ -1,4 +1,4 @@
-**SEND:** On July 23rd, 2018
+**SEND:** On August 6th, 2018
 **Insert** emailBanner.jpg file at the top of this note and replace link placeholder with the IBMer challenge registration (will be provided when ready)  
 **From:** Lab Leader  
 **To:** Lab Developers  
