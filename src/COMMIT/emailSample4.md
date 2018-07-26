@@ -1,4 +1,4 @@
-**SEND:** On September 3rd, 2018.  
+**SEND:** On October 2nd, 2018.  
 **NOTE** Remove middle paragraph if you have not been notified by IBM of event tickets  
 **From:** Org Leader  
 **To:** People who submitted  

@@ -1,4 +1,4 @@
-**SEND:** On August 6th, 2018.  
+**SEND:** On August 20th, 2018.  
 **From:** Org Leader  
 **To:** Developers on teams from Call for Code day  
 **Subject:** Call for Code Global Developer Challenge closes soon!  
@@ -7,7 +7,7 @@
 
 Team,
 
-I wanted to drop a quick email in your inbox to remind you that Call for Code submissions must be submitted by 31st August.
+I wanted to drop a quick email in your inbox to remind you that Call for Code submissions must be submitted by 28th September.
 
 For those of you that have already submitted, thank you! You're helping to show the world that developers have the power to affect real, positive change in society.
 
